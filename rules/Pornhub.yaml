@@ -1,0 +1,13 @@
+payload:
+  # > Pornhub
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  
+  # > Jable.tv
+  - DOMAIN-SUFFIX,madou.club
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,pornhd.com
+
