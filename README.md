@@ -1,2 +1,2 @@
-# rules
+# Providers
 For Clash, Loon, etc.
