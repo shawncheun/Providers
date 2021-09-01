@@ -1,1 +1,8 @@
-
+payload:
+  # ondemandchina videos use us nodes only
+  - DOMAIN-SUFFIX,cloudmosa.net,
+  - DOMAIN-SUFFIX,ondemandchina.com,
+  - DOMAIN-SUFFIX,onesignal.com,
+  - DOMAIN-SUFFIX,odkmedia.io,
+  - DOMAIN-SUFFIX,unpkg.com,
+  
