@@ -4,10 +4,6 @@ payload:
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
-  
-  # > Jable.tv
-  - DOMAIN-SUFFIX,madou.club
-  - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,pornhd.com
 
@@ -18,3 +14,7 @@ payload:
   - DOMAIN-SUFFIX,noodlemagazine.com
   - DOMAIN,sukebei.nyaa.si
   - DOMAIN-SUFFIX,xnxx.com
+  
+  - DOMAIN-SUFFIX,pornexample.com
+  
+  # - DOMAIN-SUFFIX,
